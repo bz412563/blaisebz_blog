@@ -1,1 +1,1 @@
-# About
+# <center>About</center>
