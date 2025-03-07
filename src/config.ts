@@ -52,8 +52,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/hoshino_photo.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'BlaiseBE',
+  bio: '平凡無奇的一生，卻想記錄一些東西。也許這些被記錄的事情回過頭來看是閃爍的星星。',
   links: [
     {
       name: 'Discord',
