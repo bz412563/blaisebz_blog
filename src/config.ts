@@ -15,8 +15,8 @@ export const siteConfig: SiteConfig = {
     fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'assets/images/star.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -35,7 +35,12 @@ export const siteConfig: SiteConfig = {
     //   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
     // }
   ]
+
+  
+  
 }
+
+
 
 export const navBarConfig: NavBarConfig = {
   links: [
@@ -49,6 +54,7 @@ export const navBarConfig: NavBarConfig = {
     },
   ],
 }
+
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/hoshino_photo.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
