@@ -1,6 +1,8 @@
 # <center>About</center>
 
-<center> 本網站使用了 astro 以及 Fuwari 的面板？
+<center> 本網站使用了 astro 以及 Fuwari 的主題。
+
+圖片使用的是：
 
 ## 關於BEEEE
 
