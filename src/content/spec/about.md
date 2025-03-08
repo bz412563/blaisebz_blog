@@ -2,7 +2,7 @@
 
 <center> 本網站使用了 astro 以及 Fuwari 的主題。
 
-圖片使用的是：
+圖片使用的是：[Twittch](https://x.com/nullexception5/status/1751184703745593762)
 
 ## 關於BEEEE
 
